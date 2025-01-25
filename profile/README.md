@@ -11,10 +11,6 @@
 - **Unmatched Quality**: Our condos are meticulously designed with premium features and stunning visuals.
 - **Immersive Environments**: Explore beautifully crafted spaces that bring your Roblox experience to life.
 
-## Author
-- **Avalanche** - Owner
-- **[Incognito](https://github.com/Incognito-Tabs)** - Developer
-
 </br>
 </br>
 
